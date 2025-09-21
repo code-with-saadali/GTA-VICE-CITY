@@ -21,7 +21,7 @@ const Hero = () => {
       scrollTrigger: {
         trigger: '.hero-section',
         start: 'top top',
-        scrub: 2.5,
+        scrub: 2,
         end: '+=200%',
         pin: true,
       }
